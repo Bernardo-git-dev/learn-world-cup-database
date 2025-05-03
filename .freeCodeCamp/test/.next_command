@@ -39,3 +39,9 @@ chmod +x insert_data.sh
 ./queries.sh
 ./insert_data.sh
 pg_dump -cC --inserts -U freecodecamp worldcup > worldcup.sql
+git remote -v
+git push -u coderoad master
+ls --color=auto -al ~/.ssh
+git remote set-url coderoad https://github.com/Bernardo-git-dev/learn-world-cup-database.git
+git remote -v
+git add .
