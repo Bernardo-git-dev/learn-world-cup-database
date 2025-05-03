@@ -45,3 +45,4 @@ ls --color=auto -al ~/.ssh
 git remote set-url coderoad https://github.com/Bernardo-git-dev/learn-world-cup-database.git
 git remote -v
 git add .
+git commit -m "Complete World Cup database project"
