@@ -59,3 +59,6 @@ git remote add origin git@github.com:Bernardo-git-dev/learn-world-cup-database.g
 git push -u origin master
 __vsc_prompt_cmd_original
 git add .
+git commit -m "primeiro commit"
+git remote add origin git@github.com:Bernardo-git-dev/learn-world-cup-database.git
+git push -u origin master
